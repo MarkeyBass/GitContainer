@@ -1,0 +1,9 @@
+blabla blalbalabla
+
+git status
+
+git add . 
+git status
+git commit -m "another.txt created"
+git hist (HEAD -> updates)
+
