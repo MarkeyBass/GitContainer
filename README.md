@@ -1,7 +1,7 @@
 # Demo Project README
-
-This is asimple README file
-
+## This is asimple README file
+### Third line
 .
 fifth line
-<b>This will be bold</b>
+<br/>
+<b style="colore: blue" >This will be bold</b>
